@@ -1,0 +1,13 @@
+
+1. git commit -m "tableau chargé depuis le JS ok"
+
+
+TODO pour l'exo table
+
+- Regarder les createDocumentFragment
+- Ajouter d'autres colonnes
+- Pouvoir ajouter des lignes avec une formulaire
+- Pouvoir supprimer des lignes
+- Pouvoir les réordonner
+- Recharger la page et les modifications
+- Back : aller chercher les infos sur une API, faire des mises à jour sans rafraîchir la page
