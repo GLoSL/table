@@ -11,11 +11,22 @@
         <tr>
           <th>Nom</th>
           <th>Prénom</th>
-      </tr>
+          <th>Âge</th>
+          <th>Taille</th>
+        </tr>
       </thead>
       <tbody>
       </tbody>
     </table>
+
+    <form id="add-person" action="index.html" method="post" type="submit">
+      <label for="surname">Nom : </label><input type="text" name="surname" id="surname" value="">
+      <label for="firstname">Prénom : </label><input type="text" name="firstname" id="firstname" value="">
+      <label for="age">Âge : </label><input type="number" name="age" id="age" value="">
+      <label for="height">Taille : </label><input type="number" name="height" id="height" value="">
+      <p><input name="name" value="send" type="submit"></p>
+    </form>
+
     <script src="app.js" charset="utf-8"></script>
   </body>
 </html>

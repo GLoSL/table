@@ -4,9 +4,9 @@
 
 TODO pour l'exo table
 
-- Regarder les createDocumentFragment
-- Ajouter d'autres colonnes
-- Pouvoir ajouter des lignes avec une formulaire
+- ~ok - Regarder les createDocumentFragment
+- ~ok - Ajouter d'autres colonnes
+- Pouvoir ajouter des lignes avec un formulaire
 - Pouvoir supprimer des lignes
 - Pouvoir les réordonner
 - Recharger la page et les modifications
